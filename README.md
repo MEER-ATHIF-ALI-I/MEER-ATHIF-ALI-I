@@ -8,7 +8,7 @@
 
 <br />
 
-Hi, I'm [Meer Athif Ali](https://meerathifali.me), a Full Stack Developer 🚀 from India. I love building robust and highly scalable systems. Beside's programming, I enjoy to play strings and podcasting.
+Hi, I'm [Meer Athif Ali](https://https://meer-athif-ali-portfolio.netlify.app/), a Full Stack Developer 🚀 from India. I love building robust and highly scalable systems. Beside's programming, I enjoy to play strings and podcasting.
 
   <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
   
