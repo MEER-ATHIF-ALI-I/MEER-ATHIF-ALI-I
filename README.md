@@ -1,7 +1,7 @@
 <h1 align="center">Hey there <img src="Hi.gif" width="40px" />, I'm Athif</h1>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-meerathifali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meer-athif-ali-a8610a151)](https://www.linkedin.com/in/meer-athif-ali-a8610a151))
+[![Linkedin Badge](https://img.shields.io/badge/-meerathifali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meer-athif-ali-a8610a151)](https://www.linkedin.com/in/meer-athif-ali-a8610a151)
 [![Medium Badge](https://img.shields.io/badge/-@meerathifali-black?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@meerathifali/)](https://medium.com/@meerathifali)
 [![Gmail Badge](https://img.shields.io/badge/-mail@meerathifali.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mail@meerathifali@gmail.com)](mailto:mail@meerathifali@gmail.com)
 ![](https://visitor-badge.glitch.me/badge?page_id=meerathifali.meerathifali)
