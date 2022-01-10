@@ -18,7 +18,7 @@ Hi, I'm [Meer Athif Ali](https://https://meer-athif-ali-portfolio.netlify.app/),
 - 💬 I'm open for tech talks and Full-time Opportunities;
 - 🌱 Learning Blockchain; 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 **Technologies**  
 
