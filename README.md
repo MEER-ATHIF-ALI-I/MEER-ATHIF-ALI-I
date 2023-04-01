@@ -16,9 +16,9 @@ Hi, I'm [Meer Athif Ali](https://meer-athif-ali-portfolio.netlify.app/), a Full 
 
 - 👨🏽‍💻 Currently working on Full stack projects;
 - 💬 I'm open for tech talks and Full-time Opportunities;
-- 🌱 Learning Blockchain; 
+- 🌱 Fintech Enthusiast; 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Podcast episode release for every week about Fintech
 
 **Technologies**  
 
