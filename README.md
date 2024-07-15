@@ -14,11 +14,11 @@ Hi, I'm [Meer Athif Ali](https://meer-athif-ali-portfolio.netlify.app/), a Full 
   
 **Some highlights about me:**
 
-- 👨🏽‍💻 Currently working on Full stack projects;
+- 👨🏽‍💻 Currently working as Software Engineer;
 - 💬 I'm open for tech talks and Full-time Opportunities;
 - 🌱 Fintech Enthusiast; 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Podcast episode release for every week about Fintech
+- 🥅 2024 Goals: Podcast episode release for every week about Fintech
 
 **Technologies**  
 
