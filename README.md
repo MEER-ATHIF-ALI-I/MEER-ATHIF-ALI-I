@@ -18,7 +18,7 @@ Hi, I'm [Meer Athif Ali](https://athif-ali-meer-portfolio.netlify.app/), a Full 
 - 💬 I'm open for tech talks and Full-time Opportunities;
 - 🌱 Fintech Enthusiast; 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Podcast episode release for every week about Fintech
+- 🥅 2025 Goals: Podcast episode release for every week about Fintech
 
 **Technologies**  
 
